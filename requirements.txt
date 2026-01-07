@@ -1,0 +1,4 @@
+pyspark==3.5.1
+python-dateutil>=2.8.2
+pandas>=2.0.0
+pyarrow>=10.0.0
